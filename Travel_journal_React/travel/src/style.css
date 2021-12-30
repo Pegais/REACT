@@ -1,0 +1,48 @@
+.navbar span{
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14.4608px;
+line-height: 18px;
+letter-spacing: -0.075em;
+
+
+color: #FFFFFF;
+
+}
+
+
+.navbar{
+
+left: 0px;
+top: 0px;
+
+
+background: #F55A5A;
+}
+.body{
+    display: flex;
+    margin-left: 100px;
+    padding: 30px;
+    background-color: beige;
+    width: fit-content;
+    margin-top: 80px;
+    height: fit-content;
+    border-radius: 20px;
+    box-shadow: 8px 9px  #F55A5A;
+    margin-right: 100px;
+box-sizing: border-box;
+}
+.image-body{
+    background-image: url(./Images/download.jpg);
+    width: 200px;
+    height: 180px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    
+}
+.body-content{
+    padding: 10px;
+    margin-left: 4px;
+    width: fit-content;
+}
